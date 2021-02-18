@@ -1,16 +1,30 @@
-# **Assignment Title**  
+# **Calendar Months**  
 
 ## **Assignment Description**  
-
+Create a function called calendar() that returns the number of a given month m. If m is not a month, return "<m> is not a month"
 
 ## **Examples**  
->
+>calendar("january")  
+1  
+
+>calendar("december")  
+12  
+
+>calendar("winter")  
+winter is not a month  
+
 
 ## **Limitations**  
+1 function  
+1 list  
+1 for loop  
+1 if statement  
 
 ## **Hints**  
+[0] returns the first value of a list.
 
 ## **Concepts**  
+Unit 1, Unit 2, Unit 3, lists
 
 ---
 
